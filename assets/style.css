@@ -82,7 +82,7 @@ nav ul li {
     margin-left: 30px;
 }
 
-a {
+nav a {
     color: var(--light);
     text-underline-offset: 5px; 
 }
@@ -217,18 +217,20 @@ footer ul{
     margin-right: 10cm;
 }
 
-footer ul li {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
-    color: #8b8c89;
-    text-decoration: underline var(--dark);
-    text-underline-offset: 5px;
+footer ul li{
     display: inline-block;
 }
 
-footer ul li p {
+footer a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: var(--gry);
+    text-decoration: underline var(--dark);
+    text-underline-offset: 5px;
     margin-left: 20px;
 }
+
+
 
 
 /* media queries: Desktop, Tablet, Mobile */
