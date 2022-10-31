@@ -166,7 +166,7 @@ h4 {
 }
 
 /* Images placements */
-img {
+#city, #led, #comp, #mern, #run {
     border: 3px solid var(--light);
     opacity: 0.5;
 }
