@@ -168,11 +168,7 @@ h4 {
 /* Images placements */
 img {
     border: 3px solid var(--light);
-}
-
-#city:hover {
-    opacity: 1.0;
-    background-color: var(--light);
+    opacity: 0.5;
 }
 
 #city {
@@ -182,6 +178,9 @@ img {
     margin-right:250px;
     margin-left: 0px;
 }
+#city:hover {
+    opacity: 1.0;
+}
    
 #led {
     margin-top:580px;
@@ -190,12 +189,18 @@ img {
     margin-left: 0px;
      
 }
+#led:hover {
+    opacity: 1.0;
+}
    
 #comp {
     margin-top: 548px;
     margin-bottom: -300px;
     margin-right:-1020px;
     margin-left: 50px;
+}
+#comp:hover {
+    opacity: 1.0;
 }
    
 #mern {
@@ -204,12 +209,18 @@ img {
     margin-right: -500px;
     margin-left: -300px;
 }
+#mern:hover {
+    opacity: 1.0;
+}
      
 #run {
      margin-top: 675px;
      margin-bottom: -470px;
      margin-right: -1020px ;
      margin-left: 50px;
+}
+#run:hover {
+    opacity: 1.0;
 }
 
 /* Footers text styles */
