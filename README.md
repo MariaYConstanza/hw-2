@@ -12,5 +12,8 @@ HTML is built from scratch, but using a sample website for cross refrence to hav
 - HTML : W3Schools and MDN
 - CSS : W3Schools and MDN
 
+## Screen Shot
+![Professional Portfolio](https://user-images.githubusercontent.com/112887914/199096072-6003c7cb-dc67-43c7-a339-da73a5ef0908.png)
+
 ## Deploy
 Live site : https://mariayconstanza.github.io/hw-2/
